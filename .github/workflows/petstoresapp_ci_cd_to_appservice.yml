@@ -1,4 +1,4 @@
-name: Pet Store App CI/CD to Azure App Service
+name: Pet Store App CI/CD to Azure App Service.
   
 env:
   AZURE_CONTAINER_REGISTRY: richpetstorecr.azurecr.io
